@@ -5,4 +5,5 @@ My vim configuration files
   ```
   git clone https://github.com/nebuk4d/vimfiles.git ~/.vim
   ln -s ~/.vim/vimrc ~/.vimrc
+  ~/.vim/installPlugins.sh
   ```
